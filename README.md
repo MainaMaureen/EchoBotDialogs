@@ -1,0 +1,2 @@
+# EchoBotDialogs
+Contains all dialogs
